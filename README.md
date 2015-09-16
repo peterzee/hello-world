@@ -1,8 +1,3 @@
 # hello-world
-starting
 
-going to commit
-
-second commit
-
-
+this is the second branch
